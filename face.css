@@ -1,0 +1,67 @@
+#face{
+    font-size: 50px;
+    color:blue;
+    
+    
+}
+#main
+{
+    border:2px solid blue;
+
+    
+}
+select{
+    width: 70px;
+}
+#button
+{
+    background-color: rgb(21, 153, 21);
+    border: 10px;
+    height: 30px;
+    width:130px ;
+    border-radius: 8px;
+    color: white;
+    font-size: large;
+    
+}
+#last
+{
+    color: blue;
+
+}
+.box
+{
+    width:80px ;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 1px;
+    border-radius: 7px;
+    float: left;
+}
+#tt
+{
+    border-radius: 30px;
+
+}
+#ee
+{
+    width: 372px;
+}
+#facee
+{
+    font-size: xx-large;
+    color: blue;
+    position: relative;
+    left:100px;
+    font-weight: 800;
+    float:center;
+    border: 2px solid white;
+    padding: 2px;
+    margin: 2px;
+    width:200px ;
+    
+}
+#bold
+{
+    font-weight: 700;
+}
